@@ -446,6 +446,7 @@ function showInstructions() {
       <span class="instruction-text"><span class="red-word">RED</span> squares take away points.</span>
       <span class="instruction-text">You have 60 seconds to play, but clearing levels adds extra time.</span>
       <span class="instruction-text">Each of the 5 levels adds extra challenges to the game.</span>
+      <span class="instruction-text">Use the ← and → keys to move</span>
       <span class="title">Good Luck!</span>
       <div id="replay-button">START THE GAME!</div>
     </div>
